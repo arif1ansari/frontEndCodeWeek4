@@ -1,4 +1,4 @@
-# Angularweek3
+# Angularweek4
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.3.
 
@@ -25,3 +25,10 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## AWS access of Angular app
+Below is the Amazon s bucket url to access the froontend through cloud.
+http://finalassesment.s3-website.ap-south-1.amazonaws.com
+
+## Snapshots ZIP added
+Added snapshots zip as well which is having all the snapshots starting from front end to backend i.e. from view to backend code coverage, test cases, database result,sonar report etc.
